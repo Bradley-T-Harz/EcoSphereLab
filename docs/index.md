@@ -49,7 +49,7 @@ git clone https://github.com/YourUsername/EcoSphereLab.git
 cd EcoSphereLab
 Install dependencies
 
-# Python environment (example)
+# Python environment
 conda env create -f environment.yml
 conda activate ecospherelab
 Explore notebooks in scripts/ to reproduce imagery processing and biodiversity analyses.
